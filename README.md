@@ -18,7 +18,7 @@ class Skills extends FrontEnd {
 
 <p align="left">
 
-  <a href="[#](https://www.linkedin.com/in/nahuel-gonzalo-arévalo-b38ab7248/)" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/heereh/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
 
 
