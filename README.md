@@ -12,7 +12,7 @@ class Skills extends FrontEnd {
   lenguajes = ["HTML", "CSS","JAVASCRIPT","TYPESCRIPT"];
   bibliotecas = ["FRAMER,","STYLED-COMPONENTS"];
   frameworks = ["React"];
-  extras = ['Vite']
+  extras = ['Vite', 'Node', 'Express','Git','React Router','Redux','Zustand']
 }
 ```
 
